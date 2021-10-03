@@ -1,2 +1,2 @@
-# fmirkhoshimov.github.io
+# f_mirkhoshimov.github.io
 My first project
